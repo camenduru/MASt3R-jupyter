@@ -18,7 +18,7 @@ https://arxiv.org/abs/2406.09756
 https://europe.naverlabs.com/research/publications/dust3r-geometric-3d-vision-made-easy/
 
 ### 🖼 Output
-
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/8cbfebd8-0fa5-4534-b09a-293d46bc227f">
 
 ### 🏢 Sponsor
 https://runpod.io
